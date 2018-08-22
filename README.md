@@ -7,6 +7,8 @@
 |:---:|:---:|
 | **Travis CI** |[![Build Status](https://travis-ci.org/zchee/deoplete-jedi.svg?branch=master)](https://travis-ci.org/zchee/deoplete-jedi)|
 | **Gitter** |[![Join the chat at https://gitter.im/zchee/deoplete-jedi](https://badges.gitter.im/zchee/deoplete-jedi.svg)](https://gitter.im/zchee/deoplete-jedi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)|
+[![Code Quality: Python](https://img.shields.io/lgtm/grade/python/g/zchee/deoplete-jedi.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/zchee/deoplete-jedi/context:python)
+[![Total Alerts](https://img.shields.io/lgtm/alerts/g/zchee/deoplete-jedi.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/zchee/deoplete-jedi/alerts)
 
 
 ## Required
